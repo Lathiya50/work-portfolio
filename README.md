@@ -4,41 +4,44 @@ QBack is an AI-driven platform designed for product marketing teams to create sa
 
 ## 📱 UI Screenshots
 
-### Screen 1
+### All Competitors
 ![UI Screenshot 1](https://github.com/user-attachments/assets/d0ed864a-07e6-40ae-8131-2a9ed1bced39)
 
-### Screen 2
+### Company detail
 ![UI Screenshot 2](https://github.com/user-attachments/assets/9235ef14-c720-4aaa-9874-d5ceeec8ed7a)
 
-### Screen 3
+### Company detail with pricing, customer, review, newsfeed etc
 ![UI Screenshot 3](https://github.com/user-attachments/assets/30b0868d-d425-4d53-b3c0-60969631dc6e)
 
-### Screen 4
+### Company webpage
 ![UI Screenshot 4](https://github.com/user-attachments/assets/6b214ba5-5fdf-4d28-9154-119bcb8c8417)
 
-### Screen 5
+### Company overview
 ![UI Screenshot 5](https://github.com/user-attachments/assets/1b75b78a-9383-4523-a5e3-dbd6fbe72165)
 
-### Screen 6
+### Company newds feed
 ![UI Screenshot 6](https://github.com/user-attachments/assets/d8d44ec7-8711-48a4-8ccf-b3fc48fa4f16)
 
-### Screen 7
+### All competitors assets
 ![UI Screenshot 7](https://github.com/user-attachments/assets/98bf333e-9515-47a1-838b-a792eabe7545)
 
-### Screen 8
+### Asset details design mode
 ![UI Screenshot 8](https://github.com/user-attachments/assets/0d6a67f8-0ad4-4dea-a372-445e81d22287)
 
-### Screen 9
-![UI Screenshot 9](https://github.com/user-attachments/assets/5c6bad26-e576-4495-a3f9-f6d9d00c3116)
+### Asset details edit mode
+![UI Screenshot 9](https://github.com/user-attachments/assets/4c24d184-b19c-4fe7-9e93-b1c69367a679)
 
-### Screen 10
+### company review like G2,linkedin,reddit
 ![UI Screenshot 10](https://github.com/user-attachments/assets/3da64fa4-a6cb-4950-ab7f-a47af6917dbe)
 
-### Screen 11
+### Add review
 ![UI Screenshot 11](https://github.com/user-attachments/assets/6c54c072-886d-455d-bf51-f21455b5d5f2)
 
-### Screen 12
+### Add competitors
 ![UI Screenshot 12](https://github.com/user-attachments/assets/3935d349-6f81-488b-98b3-793742cdee67)
+
+
+
 
 ## 📱 Chrome Extension Screenshots
 
