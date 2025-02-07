@@ -1,6 +1,6 @@
 # 🌟 Company Product & Chrome Extension Snapshots
 ## QBack intro
-QBack is an AI-driven platform designed for product marketing teams to create sales assets like battle cards, case studies, feature matrices, and sales decks. It helps users analyze buyer and competitor intelligence quickly, identify key insights such as pain points and pricing, and generate personalized sales materials for different personas and product launches. The tool aims to streamline the process of aligning stakeholders, analyzing data, and enabling teams with verified assets. 
+QBack is an AI-driven platform designed for product marketing teams to create sales assets like battle cards, case studies, feature matrices, and sales decks. It helps users analyze buyer and competitor intelligence quickly, identify key insights such as pain points and pricing, and generate personalized sales materials for different personas and product launches.
 
 ## 📱 UI Screenshots
 
