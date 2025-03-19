@@ -1,5 +1,7 @@
 # 🌟 Company Product & Chrome Extension Snapshots
 ## QBack intro
+AI-powered platform for product marketing teams to gather organize and analyze customer and competitor data. It offers solutions including data aggregation for product marketing managers to collect data from multiple channels, including customer calls, reviews, CRM systems, and Slack. data analysis tools to analyze the collected data, enabling PMMs to derive insights that can inform marketing strategies and product decisions, competitor insights to monitor competitor activities and market trends, and more.
+
 QBack is an AI-driven platform designed for product marketing teams to create sales assets like battle cards, case studies, feature matrices, and sales decks. It helps users analyze buyer and competitor intelligence quickly, identify key insights such as pain points and pricing, and generate personalized sales materials for different personas and product launches.
 
 ## 📱 UI Screenshots
